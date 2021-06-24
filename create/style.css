@@ -1,0 +1,490 @@
+body{
+
+margin:0;
+}
+
+.search{
+	height:960px;
+	width:100%;
+	background-image:url("mm.jpg");
+	background-size:1540px;
+
+ }
+
+
+.links {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+
+.links li {
+    float: left;
+    border-right:2px solid #bbb;
+}
+
+#log{
+
+	float:right;
+
+}
+
+
+.links li a {
+    display: block;
+    color: white;
+    font-size:20px;
+    text-align: center;
+    padding: 20px 40px;
+    text-decoration: none;
+}
+
+
+.links li a:hover:not(.active) {
+    background-color:green;
+}
+
+
+.active {
+    background-color:#009933;
+}
+
+.active:hover{
+
+		background-color:green;
+
+}
+
+header{
+	width:100%;
+	height:70px;
+	
+}
+
+
+.cr{	
+	padding:5px;
+	background-color:black;
+	color:white;
+	float:right;
+	height:40px;
+	width:110px;
+	margin:30px;
+	
+
+}
+
+
+.cr:link{
+	text-decoration:none;
+	color:white
+	background-color:white;
+
+}
+
+.cr:hover{
+
+	background-color:green;
+
+}
+
+
+
+
+
+#lib{
+
+	font-size:60px;
+	margin-left:500px;
+	color:#3333;
+
+
+
+}
+
+
+
+img#logo{
+	height:70px;
+	width:110px;
+	margin:30px;
+}
+
+
+#logos{
+
+	height:70px;
+	width:110px;
+	background-color:green;
+	color:white;
+	float:right;
+	text-align:center;
+	margin:30px;
+
+
+}
+
+
+
+
+
+img#logo:hover{
+	background-color:#b3ff99;
+}
+
+
+.texts{
+
+	color:black;
+	width:1000px;
+	height:100px;
+	padding-left:180px;
+	padding-top:340px;
+
+}
+
+
+h1#text{
+	font-size:50px;
+	width:1000px;
+	height:100px;
+
+	
+}
+
+
+
+input#inp{
+	width:880px;
+	height:50px;
+	font-size:40px;
+	margin-left:30px;
+
+}
+
+
+
+img#search{
+	width:80px;
+	height:50px; 
+	float:right;
+	
+
+}
+
+
+
+
+
+
+.catogorise{
+		margin-top:150px;
+		margin-bottom:50px;
+		font-size:30px;
+		text-align:center;
+}
+
+.hhhhh{
+		margin-left:220px;
+		margin-right:220px;
+		padding-left:0px;  
+}
+
+
+
+
+.book{
+		width:100%;
+		height:200px;
+}
+
+
+
+
+
+.books{
+		width:100%;
+		height:200px;
+		
+
+}
+
+
+
+
+
+.news{
+
+margin-left:200px; 
+
+}
+
+
+.gham{
+
+	margin-left:200px;
+
+
+}
+
+
+
+.bookss{
+
+		width:100%;
+		height:700px;		
+}
+
+
+
+
+
+
+
+
+div.img {
+    margin:25px;
+    margin-left:40px;
+    border:1px solid #ccc;
+    float: left;
+    width: 260px;
+    margin-bottom:50px;
+
+
+
+}	
+
+div.img:hover {
+    border: 1px solid #777;
+
+}
+
+div.img img {
+    width: 260px;
+    height:200px;
+}
+
+div.desc {
+    padding: 15px;
+    background-color:#333333;
+    color:white;
+    border-collapse:collapse;
+    text-align: center;
+}
+
+
+
+
+.desc:hover{
+
+	background-color:green;
+
+}
+
+
+
+
+.best:link{
+
+		text-decoration:none;
+		color:white;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#rigi{
+
+
+		margin-top:150px;
+		font-size:40px;
+		text-align:center;
+	
+
+
+}
+
+
+
+
+
+.Register{
+	background-color:#8a8a5c;
+	width:800px;
+	margin-left:250px;
+	margin-top:200px;  
+	
+}
+
+
+.regi{
+
+	margin-left:80px;
+	width:600px;
+	height:35px;
+}
+
+.regis{
+
+	margin-left:80px;
+	width:400px;
+	height:50px;
+	margin-top:50px;
+	margin-bottom:80px;
+	
+
+}
+
+.heading{
+
+
+	font-size:40px;
+	margin-left:30px;
+	color:white;
+
+
+}
+
+
+
+.bos{
+
+
+	background-color:#99ceff;
+}
+
+
+
+.name{
+
+	height:800px;
+	
+
+
+}
+
+
+
+
+#create{
+		margin-top:180px;
+		margin-bottom:180px;
+		font-size:30px;
+		text-align:center;
+
+
+
+
+}
+
+
+
+
+
+
+
+.eff{
+
+	background-color:#404040;
+	height:300px;
+	margin-top:50px;
+	padding:50px;
+
+
+
+
+}
+
+
+.end{
+
+    display:inline;
+	float:left;
+	color:white;
+	padding:50px;
+
+}
+
+
+.final{
+
+		height:30px;
+		background-color:black;
+		color:white;
+		margin:fixed;
+		padding:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.account{
+		
+		
+		font-size:30px;
+		text-align:center;
+		background-color:#b3ffd9;
+		height:250px;
+
+}
+
+
+#acco{
+
+		width:100px;
+		height:120px;
+		background-color:#664400 ;
+
+
+}
+
+
+#acco:link{
+
+		text-decoration:none;
+		color:white;
+		border-collapse:collapse; 
+
+}
+
+#acco:hover{
+
+	background-color:green;
+}
+
+.login{
+
+	background-color:#737373;
+	padding:5px;
+
+}
